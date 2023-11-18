@@ -1,0 +1,6 @@
+# mete data for our application
+appVersion: v2
+name: nginx
+version: 0.0.1  # this is the chart version
+descripton: This is th helm chart of nginx
+appVersion: "1.0.0" # this s the version belongs to application
